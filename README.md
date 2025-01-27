@@ -10,7 +10,7 @@ There's hyper text over there! And pictures. Possibly even a duck.
 
 [Robert H. Engelhardt](https://rheone.github.io/index.html#rheone) is a professional software developer with more than eighteen years of experience supporting the [National Nuclear Security Administration (NNSA)](https://www.energy.gov/nnsa/national-nuclear-security-administration) and the [Department of Energy (DOE)](https://www.energy.gov/).
 
-For a little more than the past decade Robert has worked at [Sandia National Laboratories (SNL)](https://www.sandia.gov/) where he is presently a Principal R&D S&E Computer Scientist and team lead.
+For a little more than the past decade Robert has worked at [Sandia National Laboratories (SNL)](https://www.sandia.gov/) where he is presently a DMTS R&D S&E Computer Scientist and team lead.
 
 Prior to his tenure at SNL, he contributed his expertise to [Honeywell Federal Manufacturing & Technologies](https://kcnsc.doe.gov/) in Albuquerque, now associated with the [Kansas City National Security Campus (KCNSC)](https://kcnsc.doe.gov/).
 
